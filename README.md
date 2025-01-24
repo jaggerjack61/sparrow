@@ -41,6 +41,7 @@ Coding Interview Project for Sparrow
     - **Password**: `password`
 
 > **Note**: Due to time constraints and other work commitments, this project may not be a 1:1 copy of the inline page. However, it should be comparable enough to allow evaluation my skills.
+**PS**: The .env was pushed on purpose to make deployment & demonstration easier
 
 
 
